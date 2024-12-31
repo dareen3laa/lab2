@@ -6,3 +6,5 @@ git push origin v1.4
 git tag
 git tag -d v1.4
 git push origin --delete v1.4
+command that make sequence of commits without merge
+git push origin main
