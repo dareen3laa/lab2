@@ -1,6 +1,6 @@
 
 ![description](https://th.bing.com/th/id/R.845f4eb5e37f1272a9001665d5a1c623?rik=BQgtw6anX1qWcw&pid=ImgRaw&r=0)
-<h1>ell me how to remove them locally and remotly.</h1>
+<h1>Tell me how to remove them locally and remotly.</h1>
    <P>git branch -d dev</P>
    <p>git push origin --delete dev</p>
 <h1>create an annoted tag with tagname v1.4.</h1>
